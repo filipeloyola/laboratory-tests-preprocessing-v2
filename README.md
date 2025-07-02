@@ -1,6 +1,4 @@
-# laboratory-tests-preprocessing-
-
-[![DOI](https://zenodo.org/badge/475143794.svg)](https://zenodo.org/badge/latestdoi/475143794)
+# laboratory-tests-preprocessing-v2
 
 Preprocessing laboratory tests results data by COVID-19 patients from Hospital Sirio Libanes. This repository contains one Jupyter notebook and one .csv file.
 
